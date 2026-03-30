@@ -88,4 +88,3 @@ Guidelines:
 6. [3 points] `(f,g) => x => f(g(x+1))`
 (f: (val: T)=>S ,g: (val: number)=>T) => h:(x: number) => S 
 
-HELLO hello
