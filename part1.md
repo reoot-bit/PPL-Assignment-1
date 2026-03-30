@@ -1,5 +1,4 @@
 ## Part 1: Theoretical Questions
-
 Submit the solution to this part as `part1.md`.
 
 ### [25 points] Question 1.1
@@ -88,3 +87,5 @@ Guidelines:
 
 6. [3 points] `(f,g) => x => f(g(x+1))`
 (f: (val: T)=>S ,g: (val: number)=>T) => h:(x: number) => S 
+
+HELLO hello
